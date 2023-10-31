@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "CopperVanillaMods",
+    "description": "By Refaltor",
+    "uuid": "ab5e16ac-b4bc-48d1-8a45-4b00a0b3c897",
+    "version": [
+      0,
+      0,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bfd370a9-ebf0-4f9f-9e83-914c36086e49",
+      "version": [
+        0,
+        0,
+        2
+      ]
+    }
+    ]
+}

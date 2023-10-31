@@ -1,0 +1,33 @@
+{
+  "resource_pack_name": "CopperAdditions",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "copper_feet": {
+      "textures": "copper_feet"
+    },
+    "copper_chest": {
+      "textures": "copper_chest"
+    },
+    "copper_head": {
+      "textures": "copper_head"
+    },
+    "copper_legs": {
+      "textures": "copper_legs"
+    },
+    "copper_sword": {
+      "textures": "copper_sword"
+    },
+    "copper_pickaxe": {
+      "textures": "copper_pickaxe"
+    },
+    "copper_axe": {
+      "textures": "copper_axe"
+    },
+    "copper_shovel": {
+      "textures": "copper_shovel"
+    },
+    "copper_hoe": {
+      "textures": "copper_hoe"
+    }
+  }
+}
