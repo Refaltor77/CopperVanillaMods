@@ -1,6 +1,6 @@
 # CopperCraft Plugin v1.0.0
 
-The **CopperCraft** plugin is a fantastic addition to your PocketMine-MP server, introducing copper, complete with tools and armor. This plugin is designed for PocketMine-MP version 5.0.0.
+The **CopperCraft** plugin is a fantastic (hehe) addition to your PocketMine-MP server, introducing copper, complete with tools and armor. This plugin is designed for PocketMine-MP version 5.0.0.
 
 ![CopperCraft Preview](imgs/craft_copper_pickaxe.png)
 
