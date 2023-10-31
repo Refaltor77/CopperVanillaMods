@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Refaltor77/CopperVanillaMods
+build-by-default: true
+branches:
+- main
+projects:
+  CopperVanillaMods:
+    path: ""
+    icon: resources/pack_copper/copper_sword.png
+...
